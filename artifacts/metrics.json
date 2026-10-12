@@ -1,0 +1,42 @@
+{
+  "naive_bayes": {
+    "test_accuracy": 0.0745,
+    "test_cross_entropy": null,
+    "preset": "production",
+    "epochs": "not applicable (closed-form counts)",
+    "sequence_length": 40,
+    "batch_size": "not applicable",
+    "parameter_count": 0,
+    "prepared_corpus_sha256": "dbad1359dc4c16a2eb4e1ebb7b824684b3e32d8dcbbf7a3b843bb6c8bbcb5f39"
+  },
+  "neural_net": {
+    "test_accuracy": 0.0562,
+    "test_cross_entropy": 2.4141,
+    "preset": "production",
+    "epochs": 500,
+    "sequence_length": 40,
+    "batch_size": 64,
+    "parameter_count": 468290,
+    "prepared_corpus_sha256": "dbad1359dc4c16a2eb4e1ebb7b824684b3e32d8dcbbf7a3b843bb6c8bbcb5f39"
+  },
+  "lstm": {
+    "test_accuracy": 0.0754,
+    "test_cross_entropy": 2.2687,
+    "preset": "production",
+    "epochs": 500,
+    "sequence_length": 40,
+    "batch_size": 64,
+    "parameter_count": 281890,
+    "prepared_corpus_sha256": "dbad1359dc4c16a2eb4e1ebb7b824684b3e32d8dcbbf7a3b843bb6c8bbcb5f39"
+  },
+  "encoder_decoder": {
+    "test_accuracy": 0.024,
+    "test_cross_entropy": 2.2971,
+    "preset": "production",
+    "epochs": 500,
+    "sequence_length": 40,
+    "batch_size": 64,
+    "parameter_count": 297602,
+    "prepared_corpus_sha256": "dbad1359dc4c16a2eb4e1ebb7b824684b3e32d8dcbbf7a3b843bb6c8bbcb5f39"
+  }
+}

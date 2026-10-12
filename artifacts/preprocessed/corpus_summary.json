@@ -1,0 +1,33 @@
+{
+  "pieces": 24,
+  "events": 29808,
+  "mean_events_per_piece": 1242.0,
+  "example": [
+    {
+      "pitches": [],
+      "duration": 0.5,
+      "velocity": 0
+    },
+    {
+      "pitches": [
+        60,
+        72
+      ],
+      "duration": 0.25,
+      "velocity": 26
+    },
+    {
+      "pitches": [],
+      "duration": 0.25,
+      "velocity": 0
+    },
+    {
+      "pitches": [
+        60,
+        72
+      ],
+      "duration": 0.25,
+      "velocity": 26
+    }
+  ]
+}

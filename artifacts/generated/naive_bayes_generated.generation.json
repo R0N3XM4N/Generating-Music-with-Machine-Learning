@@ -1,0 +1,10 @@
+{
+  "model": "naive_bayes",
+  "checkpoint_sha256": "2b334e7de72f47bbde2a8ea5e927aac5aca7e1919a4a972e71edc4ca7d451a36",
+  "seed_events_from_prepared_test_corpus": 40,
+  "model_sampled_events": 256,
+  "temperature": 0.72,
+  "top_k": 8,
+  "output_midi": "C:\\Users\\trona\\Desktop\\College\\LAB\\ML Lab\\MiniProj\\Codex_Version\\artifacts\\generated\\naive_bayes_generated.mid",
+  "content_provenance": "All generated pitches and durations are sampled from the saved model. Rendering adds only MIDI-safe range validation and expressive velocity."
+}

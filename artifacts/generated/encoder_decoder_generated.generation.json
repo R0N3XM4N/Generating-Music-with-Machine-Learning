@@ -1,0 +1,10 @@
+{
+  "model": "encoder_decoder",
+  "checkpoint_sha256": "ab020d8ebcc6ce9cd890f37a47f489b734c3e2f482e3d1df0425b22c1638f35b",
+  "seed_events_from_prepared_test_corpus": 40,
+  "model_sampled_events": 384,
+  "temperature": 0.7,
+  "top_k": 8,
+  "output_midi": "C:\\Users\\trona\\Desktop\\College\\LAB\\ML Lab\\MiniProj\\Codex_Version\\artifacts\\generated\\encoder_decoder_generated.mid",
+  "content_provenance": "All generated pitches and durations are sampled from the saved model. Rendering adds only MIDI-safe range validation and expressive velocity."
+}

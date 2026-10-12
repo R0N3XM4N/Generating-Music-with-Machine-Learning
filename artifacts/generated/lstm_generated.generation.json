@@ -1,0 +1,10 @@
+{
+  "model": "lstm",
+  "checkpoint_sha256": "3aa386ab67ed2ec50393d467eb801914bfede72a661fa4bdcab79ee3b7c83814",
+  "seed_events_from_prepared_test_corpus": 40,
+  "model_sampled_events": 384,
+  "temperature": 0.74,
+  "top_k": 10,
+  "output_midi": "C:\\Users\\trona\\Desktop\\College\\LAB\\ML Lab\\MiniProj\\Codex_Version\\artifacts\\generated\\lstm_generated.mid",
+  "content_provenance": "All generated pitches and durations are sampled from the saved model. Rendering adds only MIDI-safe range validation and expressive velocity."
+}
