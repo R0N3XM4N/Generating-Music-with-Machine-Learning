@@ -1,6 +1,6 @@
-# Melodia ML
+# Generating Music with Machine Learning
 
-Melodia ML is a symbolic piano-music generation project with four comparable machine-learning approaches:
+This is a symbolic piano-music generation project with four comparable machine-learning approaches:
 
 - `naive_bayes` - smoothed conditional event model
 - `neural_net` - fixed-context feed-forward neural network
